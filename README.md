@@ -24,3 +24,4 @@ This project analyzes Diwali sales data to identify customer purchasing behavior
 2. Install dependencies:  
    ```bash
    pip install pandas numpy matplotlib seaborn jupyter
+3. Launch Jupyter Notebook and open Diwali_Sales_Analysis.ipynb
